@@ -58,4 +58,7 @@ docs/_build/
 target/
 
 #apiKey.properties file
-/apiKey.properties
+apiKey.properties
+
+# venv
+/venv
