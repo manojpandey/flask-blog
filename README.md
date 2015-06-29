@@ -37,3 +37,11 @@ Simple Blog app using Flask and StormPath API for authentication
 - Create posts !
 
 - Enjoy
+
+## Test app on Heroku:
+
+- Login Email: testuser1@flaskr.com
+
+_ Password: TestUser1
+
+- Don't spam.
