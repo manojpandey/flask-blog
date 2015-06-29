@@ -3,6 +3,7 @@ Flask==0.10.1
 Flask-Login==0.2.9
 Flask-Stormpath==0.4.2
 Flask-WTF==0.11
+gunicorn==19.3.0
 httplib2==0.9.1
 itsdangerous==0.24
 Jinja2==2.7.3
