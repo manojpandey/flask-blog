@@ -82,6 +82,10 @@ def logout():
 
     return redirect(url_for('show_posts'))
 
-if __name__ == '__main__':
-    app.run()
+# When developing locally, this will use port 5000, 
+# in production Heroku will set the PORT environment variable.
     
+if __name__ == '__main__':
+    # Bind to PORT if defined, otherwise default to 5000.
+    port = int(os.environ.get('PORT', 5000))
+    app.run(host='0.0.0.0', port=port)
