@@ -42,6 +42,6 @@ Simple Blog app using Flask and StormPath API for authentication
 
 - Login Email: testuser1@flaskr.com
 
-_ Password: TestUser1
+- Password: TestUser1
 
 - Don't spam.
