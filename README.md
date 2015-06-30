@@ -1,6 +1,10 @@
 # flask-blog
 Simple Blog app using Flask and StormPath API for authentication
 
+## Deploy:
+
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
 ## How to test the app:
 
 - Clone using `cd && git clone https://github.com/manojpandey/flask-blog.git`
