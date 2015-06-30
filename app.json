@@ -1,0 +1,7 @@
+{
+  "name": "Flask Simple Blog",
+  "description": "Simple blogging app made in Flask using stormpath API",
+  "repository": "https://github.com/manojpandey/flask-blog",
+  "logo": "http://flask.pocoo.org/docs/0.10/_static/flask.png",
+  "keywords": ["flask", "python", "boilerplate"]
+}
