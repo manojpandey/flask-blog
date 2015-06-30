@@ -1,6 +1,10 @@
 # flask-blog
 Simple Blog app using Flask and StormPath API for authentication
 
+
+[![Build Status](https://travis-ci.org/manojpandey/flask-blog.svg)]
+(https://travis-ci.org/manojpandey/flask-blog)
+
 ## Deploy:
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
