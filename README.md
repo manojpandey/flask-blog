@@ -13,7 +13,7 @@ Simple Blog app using Flask and StormPath API for authentication
 
 ## How to test the app:
 
-- Clone using `cd && git clone https://github.com/manojpandey/flask-blog.git`
+- Clone using `cd && git clone https://github.com/manojpandey/flask-blog.git flaskr`
 
 - `cd flaskr`
 
